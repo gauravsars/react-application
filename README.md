@@ -50,7 +50,14 @@ If you go in the file App.jsx , you will find the base level or root component.
 
   ***************************************************************************
   ***************************************************************************
-  
+  commit- 003 
+  download bootstrap package using command npm install bootstrap --save. 
+  Import the bootstrap library in main.jsx import 'bootstrap/dist/css/bootstrap.min.css
+  Use bootstrap class in HelloWorld.jsx component. return <h1 className = "text-center"> Hello World ! </h1>
+
+
+  ***************************************************************************
+  ***************************************************************************
   
   
   
