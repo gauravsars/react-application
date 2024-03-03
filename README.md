@@ -59,5 +59,17 @@ If you go in the file App.jsx , you will find the base level or root component.
   ***************************************************************************
   ***************************************************************************
   
-  
+  commit -004
+  Create React Functional Component - ListEmployeeComponent
+		-Install the ES7 + React/Redux/React - Native snippets
+		-Short cuts like rfce : react functional export component rafce
+  Prepare Dummy Data (List of Employees) to Display in an HTML table.
+		-inside the listEmployeeComponent prepare the dummy json array data (3 records).
+  Write JSX Code to Display List of Employees in HTML Table.
+		-dummyData.map(employee => <tr key = {employee.id}> understand this.
+  Import and Use ListEmployeeComponent in App Component.
+  Run and Test React App
+
+  ***************************************************************************
+  ***************************************************************************
   
