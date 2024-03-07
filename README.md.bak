@@ -65,6 +65,7 @@ If you go in the file App.jsx , you will find the base level or root component.
 		-Short cuts like rfce : react functional export component rafce
   Prepare Dummy Data (List of Employees) to Display in an HTML table.
 		-inside the listEmployeeComponent prepare the dummy json array data (3 records).
+		
   Write JSX Code to Display List of Employees in HTML Table.
 		-dummyData.map(employee => <tr key = {employee.id}> understand this.
   Import and Use ListEmployeeComponent in App Component.
@@ -73,12 +74,3 @@ If you go in the file App.jsx , you will find the base level or root component.
   ***************************************************************************
   ***************************************************************************
   
-commit --005
-Install axios library.
-Create EmployeeService.js File
-Write REST Client Code to make a REST API call using axios API
-Change ListEmployeeComponent to Display Response of the REST API.
-Test React API
-
-*****************************************************************************
-*****************************************************************************
