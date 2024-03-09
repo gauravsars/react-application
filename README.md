@@ -82,3 +82,9 @@ Test React API
 
 *****************************************************************************
 *****************************************************************************
+
+commit --006
+Adding HeaderComponent.jsx 
+Adding FooterComponent.jsx
+Importing both footer and header component in App.jsx.
+Clearing default js file , css file and adding css definition.
